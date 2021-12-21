@@ -13,7 +13,7 @@
  *= require_tree .
  *= require_self
  */
-* {
+*{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -68,7 +68,7 @@ main {
   width: 200px;
   height: 250px;
   margin: 10px;
-  position: relative;
+  position: relative
 }
 
 .list-comment {
@@ -78,7 +78,7 @@ main {
   bottom: 0;
 }
 
-.list-body {
+.list-body{
   display: block;
   color: gray;
   font-size: 12px;
@@ -87,7 +87,7 @@ main {
   text-overflow: ellipsis;
 }
 
-.list-title {
+.list-title{
   display: block;
   font-size: 18px;
   overflow: hidden;
