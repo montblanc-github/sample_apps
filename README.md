@@ -8,3 +8,4 @@ HTML・CSS・Ruby・Ruby on Rails
 - Ruby on Rails基本
 - 環境変数
 - rails c
+- seedファイルを用いたデータ作成
