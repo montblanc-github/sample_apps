@@ -1,24 +1,10 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# DMM WEBCAMPコンテンツ【Railsを学ぼう】
+DMM WEBCAMPの学習コンテンツRailsを学ぼうの研修課題です。
+## 使用ツール
+Cloud9
+## 使用言語
+HTML・CSS・Ruby・Ruby on Rails
+## 学習内容
+- Ruby on Rails基本
+- 環境変数
+- rails c
