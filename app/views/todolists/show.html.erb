@@ -3,8 +3,8 @@
 <h2>本文</h2>
 <p><%= @list.body %></p>
 <h2>画像</h2>
-<% if list.image.attached? %>
-  <%= image_tag @list.image,variant('200×200') %>
+<% if @list.image.attached? %>
+  <%= image_tag @list.image.variant(resize:'200×200') %>
 <% else%>
   <%= image_tag 'no_image.jpg'%>
 <% end %>
